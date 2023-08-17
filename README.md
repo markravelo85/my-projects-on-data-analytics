@@ -20,7 +20,7 @@ while using pandas to clean and eliminate not-null registers to ensure data inte
 mysql to get statistical information about it.
 
 4. Connecting the csv archive ("events") with Tableau it's showed on the archive called "Dashboard proyecto final.twbx" where in a Tableau archive, shows 4 graphics about:
-Categories and brands most purchased
-Low purchased brands
-Users with most purchases
-Most purchased dates
+Categories and brands most purchased,
+Low purchased brands,
+Users with most purchases,
+Most purchased dates.
