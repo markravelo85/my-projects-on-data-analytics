@@ -1,6 +1,7 @@
 # my-projects-on-data-analytics
 #Hi good morning to everyone:
-On this repository I show my final project for Data Analysis where consists on 4 archives in which I'll explain below: 
+On this repository I show my projects for Data Analysis where consists on archives in python, excel, mysql and tableau which I'll explain below: 
+
 1. A csv database from Excel called "events": Over this dataset it's about information from a electronic store online, where has the main registers about:
 Event time (the time period or date where the user do an action over the website),
 Event type (the type or action done by the user: view, purchase, cart or shopping cart),
@@ -24,3 +25,13 @@ Categories and brands most purchased,
 Low purchased brands,
 Users with most purchases,
 Most purchased dates.
+
+So there's another file that I've already updated on this repository. This python file made in VS Code is about the perception of user of acquiring an new electric car depending 
+their anxiety of getting a new one, and its csv file is composed with registers about: 
+Age, 
+Sex,
+EV user id,
+Daily conmmute (km),
+Number of charging stations near of their houses,
+Annual income
+City type
